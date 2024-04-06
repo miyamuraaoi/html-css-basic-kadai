@@ -1,10 +1,10 @@
 body {
-    font-family: "Arial" "Meiryo" sans-serif;
+    font-family: "Arial", "Meiryo", sans-serif;
     font-size: 20px;
     text-align: center;
 }
 
-h1 {
+.h1-size {
     font-family: "Josefin Sans", sans-serif;
     font-size: 2em;
     letter-spacing: 1.2em;
@@ -14,7 +14,7 @@ h1 {
 }
 
 #text-blue {
-    color: blue; 
+    color: #a0d8ef; 
 
 }
 
@@ -27,7 +27,7 @@ h1 {
 }
 
 .h2-blue {
-    color: blue;
+    color: #a0d8ef;
 }
 
 #basic p {
